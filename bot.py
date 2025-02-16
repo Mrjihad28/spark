@@ -23,7 +23,7 @@ class Sparkchain:
             "Sec-Fetch-Mode": "cors",
             "Sec-Fetch-Site": "same-site",
             "User-Agent": FakeUserAgent().random
-        }
+        }((https://t.me/AirdropTube28)
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
@@ -54,7 +54,7 @@ class Sparkchain:
         {Fore.RED + Style.BRIGHT}but heartfelt thanks to the original creator!
         """
         f"""
-        {Fore.MAGENTA + Style.BRIGHT}Join Telegram: {Fore.CYAN + Style.BRIGHT}FORESTARMY (https://t.me/forestarmy)
+        {Fore.MAGENTA + Style.BRIGHT}Join Telegram: {Fore.CYAN + Style.BRIGHT}FORESTARMY 
         """
         )
 
