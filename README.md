@@ -15,7 +15,7 @@ Make sure you have Python installed, then run:
 
 3️⃣ Run the Script
 
-`python script.py`
+`python main.py`
 
 
 ---
